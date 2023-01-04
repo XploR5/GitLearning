@@ -5,4 +5,3 @@ Learning is fun!
 
 Feel free to learn with me
 
-#Awesome
